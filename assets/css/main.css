@@ -1435,9 +1435,9 @@ a.newer-posts:hover {
             border-radius: 100%;
     margin-bottom: 10px;
   }
-  .about .menu-image {
-	width: 50%;
-    height: 50%;
+  .about .menu-image img {
+	width: 30%;
+    height: 30%;
     -webkit-border-radius: 100%;
             border-radius: 100%;
     margin-bottom: 10px;
