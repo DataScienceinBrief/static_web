@@ -1440,6 +1440,7 @@ a.newer-posts:hover {
     height: 40%;
     -webkit-border-radius: 100%;
             border-radius: 100%;
+	margin-top: 10px;
     margin-bottom: 10px;
   }
   .content-box {
