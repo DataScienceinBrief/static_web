@@ -2,7 +2,7 @@ title: Hello, Data Scientists! Welcome to Data Science in Brief!
 description: Data Science in Brief is the non-profit community sharing main purpose on learning, exchanging AI and Data Science knowledge through short articles and hand-on events.
 permalink: ':title/'
 baseurl: "/dsinbrief"
-url: "https://babycute1093.github.io"
+url: "https://datascienceinbrief.github.io"
 
 # Author Settings
 author: Data Science in Brief
