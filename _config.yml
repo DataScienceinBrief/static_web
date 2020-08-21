@@ -8,11 +8,9 @@ url: "https://datascienceinbrief.github.io"
 author: Data Science in Brief
 author-img: DataScienceInBrief.png
 about-author: From Sparse Data To Expert Knowledge
-social-twitter: # add your Twitter handle
-social-facebook: DSinbrief
-social-github: # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-facebook: https://www.facebook.com/DSinbrief
+social-github: https://github.com/DataScienceinBrief
+social-email: DSinbrief@gmail.com
 
 # Disqus
 discus-identifier: dsinbrief
